@@ -1,1 +1,1 @@
-<h1>Welcome to the Netologist Blog</h1>
+<h1>Welcome to the Netologist Blog!</h1>
